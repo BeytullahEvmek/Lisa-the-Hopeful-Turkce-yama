@@ -50,6 +50,8 @@ Start in Fullscreen yazan kutuya basılı tutun
 
 Oyunu kapatıp açın
 # Özel Rodrigues Rotası nasıl açılır
+(Bu rota sadece Acı modunda işe yarar)
+
 1)Yoğurt Ustalar'dan kaçın . Bir Bumerang yere bırakacak.
 
 2)Yoğurt Ustalar'la gerçek anlamda savaşın ve savaştan sonra Boomerang'ı geri alın.
