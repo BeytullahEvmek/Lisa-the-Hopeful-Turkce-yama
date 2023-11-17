@@ -8,7 +8,9 @@ Lisa the Hopeful: https://taco-salad.itch.io/lisa-the-hopeful
 
 # Nasıl yüklenir?
 
-YAMAYI INDIRME![Ekran Alıntısı](https://github.com/BeytullahEvmek/Lisa-the-Hopeful-Turkce-yama/assets/130393344/23541f5b-bb8b-46f2-921f-f2d2cd2b3f61)
+YAMAYI INDIRME!
+
+[Ekran Alıntısı](https://github.com/BeytullahEvmek/Lisa-the-Hopeful-Turkce-yama/assets/130393344/23541f5b-bb8b-46f2-921f-f2d2cd2b3f61)
 
 ![Ekran Alıntısıf](https://github.com/BeytullahEvmek/Lisa-the-Hopeful-Turkce-yama/assets/130393344/ba4e91fa-3b42-4592-baaa-b510b7d7d408)
 
