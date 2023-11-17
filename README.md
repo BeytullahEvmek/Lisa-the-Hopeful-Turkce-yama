@@ -1,5 +1,6 @@
 # Lisa-the-Hopeful-Turkce-yama!
-[lisathehopefulintro](https://github.com/BeytullahEvmek/Lisa-the-Hopeful-Turkce-yama/assets/130393344/5dd23077-8aa0-4374-8cb1-0a5fd92e9c00)
+![image1](https://github.com/BeytullahEvmek/Lisa-the-Hopeful-Turkce-yama/assets/130393344/f2b952a7-a894-4d2b-9a3b-8d15486e952a)
+
 
 Bu Patch orijinal modsuz Lisa the Hopeful için yapılmıştır.
 
