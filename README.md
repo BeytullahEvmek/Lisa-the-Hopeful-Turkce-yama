@@ -71,6 +71,13 @@ ancak alet kutusunun içinde araba çıkartma etiketlerinden başka hiçbir şey
 
 geri verecek ve grubunuza katılacak.
 
+# Nasıl tam ekran yapılır? 
+başlangıç ekranında f1 e basın 
+
+Graphics'e basın Start in Fullscreen yazan kutuya basılı tutun 
+
+Oyunu kapatıp açın
+
 # Orijinal Haklar
 LISA: The Painful Dingaling trafından yapılmıştır.                               https://store.steampowered.com/app/335670/LISA_The_Painful/
 
