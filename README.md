@@ -6,6 +6,9 @@ Bu Patch orijinal modsuz Lisa the Hopeful için yapılmıştır.
 
 Lisa the Hopeful: https://taco-salad.itch.io/lisa-the-hopeful
 
+![e-information-icon-260nw-2030420033](https://github.com/BeytullahEvmek/Lisa-the-Hopeful-Turkce-yama/assets/130393344/e49cc305-999e-4ddf-8da3-8bb2e74a303d)
+Dikkat:Oyun Ağır öğeler içerir
+
 # Nasıl yüklenir?
 
 YAMAYI INDIRME
